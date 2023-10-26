@@ -1,7 +1,7 @@
 # 🚀 Astro + 🦕 Deno Template
 
 This sample project contains a recommended starting point for your Deno project
-using Astro. Mark is using this for testing!
+using Astro. Mark is using this for testing! How quickly is this edit deployed?
 
 ## 🛠️ Using this template
 
